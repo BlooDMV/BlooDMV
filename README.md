@@ -1,12 +1,8 @@
 ## 팀 개발을 위한 git github 시작하기# 팀 개발을 위한 git github 시작하기 👋
 
-<!--
-**BlooDMV/BlooDMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![illust_122161726_20240906_182159](https://github.com/user-attachments/assets/77207391-08a1-4743-bf75-93ef4ab129a5)
 
-
-Here are some ideas to get you started:
 
 ### :octocat: 안녕하세요?
 
